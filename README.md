@@ -1,1 +1,1 @@
-# hospitall
+# hospital mangement system 
